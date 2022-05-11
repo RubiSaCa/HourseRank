@@ -1,4 +1,4 @@
-from HorsePos.py import Horse
+from class_Horse.py import Horse
 
 class HorseNode:
 
